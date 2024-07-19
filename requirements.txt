@@ -1,0 +1,6 @@
+pandas
+plotly
+flask[async]
+aiomoex
+asyncio
+aiohttp
